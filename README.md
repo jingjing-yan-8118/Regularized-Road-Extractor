@@ -1,4 +1,4 @@
-# Road-Width-Detector
+# Regularized-Road-Extractor
 
 This repository is the official implementation of  [A Combination of Convolutional and Graph Neural Networks for Regularized Road Surface Extraction](https://ieeexplore.ieee.org/abstract/document/9714410)
 
