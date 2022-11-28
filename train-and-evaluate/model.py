@@ -1,4 +1,4 @@
-import roadtagger_tf_common_layer as common
+import tf_common_layer as common
 #import tf_common_layer_before20190225 as common
 
 import numpy as np
